@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "total": 2,
+    "average": 5.0,
+    "distribution": {
+      "5": 2,
+      "4": 0,
+      "3": 0,
+      "2": 0,
+      "1": 0
+    }
+  },
+  "reviews": [
+    {
+      "userName": "los g.",
+      "rating": 5,
+      "date": "1 month ago",
+      "comment": "Excelente , super atentos, el coche perfecto tal el anuncio. Y muy rapido . Muchas gracias os recomiendo",
+      "carTitle": "FIAT Scudo 2007",
+      "wallapopUrl": "https://es.wallapop.com/item/fiat-scudo-2007-1237535167",
+      "userAvatar": "https://cdn.wallapop.com/images/13/1n/ak/__/c13p99591074/i541344850.jpg?pictureSize=W320",
+      "carImage": "https://cdn.wallapop.com/images/10420/kg/so/__/c10420p1237535167/i6340515798.jpg?pictureSize=W320"
+    },
+    {
+      "userName": "Diegoo 7.",
+      "rating": 5,
+      "date": "2 months ago",
+      "comment": "Un señor muy agradable muy amable con mucha seriedad y puntual, buen trato.",
+      "carTitle": "Renault Laguna 2003",
+      "wallapopUrl": "https://es.wallapop.com/item/renault-laguna-2003-1238212512",
+      "userAvatar": "https://cdn.wallapop.com/images/13/7v/rq/__/c13p476625158/i3620548407.jpg?pictureSize=W320",
+      "carImage": "https://cdn.wallapop.com/images/10420/kh/76/__/c10420p1238212512/i6344847555.jpg?pictureSize=W320"
+    }
+  ]
+}

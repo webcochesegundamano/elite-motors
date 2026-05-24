@@ -1,0 +1,13 @@
+{
+  "_comment": "Copia este fichero como config.json y rellena los datos",
+  "wallapop_user_id": "qjwy93w0qezo",
+  "site": {
+    "name": "Elite Motors",
+    "domain": "https://webcochesegundamano.github.io/elite-motors/",
+    "phone": "+34 910 922 098",
+    "email": "elite-motors@gmail.com",
+    "address": "https://maps.app.goo.gl/27FThtvKcu6ovCGn8",
+    "latitude": 40.4168,
+    "longitude": -3.7038
+  }
+}
