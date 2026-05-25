@@ -658,49 +658,7 @@
       "imageUrl": "img/cars/peugeot-rcz-2012-3zlm5n.webp",
       "featured": false,
       "sold": false
-    },
-    {
-      "id": "fiat-scudo-2007-vjrexp",
-      "brand": "FIAT",
-      "model": "Scudo Combi 10 1.6 Multijet 90 Std 5-6 Corto 4p Semiacrist",
-      "year": 2007,
-      "price": 3999,
-      "km": 430000,
-      "fuel": "Diesel",
-      "transmission": "Manual",
-      "features": [
-        "Etiqueta B",
-        "Potencia: 90 HP",
-        "Puertas: 4 doors",
-        "Kilometraje certificado",
-        "Revisado y listo para transferir"
-      ],
-      "adUrl": "https://es.wallapop.com/item/fiat-scudo-2007-1237535167",
-      "imageUrl": "img/cars/fiat-scudo-2007-vjrexp.webp",
-      "featured": false,
-      "sold": true
-    },
-    {
-      "id": "renault-laguna-2003-9jdwv4",
-      "brand": "Renault",
-      "model": "Laguna 1.6 16v 110 Expression 5p",
-      "year": 2003,
-      "price": 1999,
-      "km": 170000,
-      "fuel": "Gasolina",
-      "transmission": "Manual",
-      "features": [
-        "Etiqueta B",
-        "Potencia: 110 HP",
-        "Puertas: 5 doors",
-        "Kilometraje certificado",
-        "Revisado y listo para transferir"
-      ],
-      "adUrl": "https://es.wallapop.com/item/renault-laguna-2003-1238212512",
-      "imageUrl": "img/cars/renault-laguna-2003-9jdwv4.webp",
-      "featured": false,
-      "sold": true
     }
   ],
-  "sellCount": 2
+  "sellCount": 0
 }
