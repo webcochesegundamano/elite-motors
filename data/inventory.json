@@ -1,28 +1,6 @@
 {
   "cars": [
     {
-      "id": "peugeot-rcz-2012-3zlm5n",
-      "brand": "Peugeot",
-      "model": "RCZ 1.6 THP 155 2p",
-      "year": 2012,
-      "price": 7999,
-      "km": 170000,
-      "fuel": "Gasolina",
-      "transmission": "Manual",
-      "features": [
-        "Etiqueta C",
-        "Potencia: 156 HP",
-        "Color: Black",
-        "Puertas: 2 doors",
-        "Kilometraje certificado",
-        "Revisado y listo para transferir"
-      ],
-      "adUrl": "https://es.wallapop.com/item/peugeot-rcz-2012-1237508869",
-      "imageUrl": "img/cars/peugeot-rcz-2012-3zlm5n.webp",
-      "featured": true,
-      "sold": false
-    },
-    {
       "id": "audi-a4-2003-0j28ek",
       "brand": "Audi",
       "model": "A4 2.0 130 4p",
@@ -85,7 +63,7 @@
       ],
       "adUrl": "https://es.wallapop.com/item/bmw-serie-3-2006-1238238243",
       "imageUrl": "img/cars/bmw-serie-3-2006-vjrexv.webp",
-      "featured": false,
+      "featured": true,
       "sold": false
     },
     {
@@ -656,6 +634,28 @@
       ],
       "adUrl": "https://es.wallapop.com/item/honda-civic-2018-1266792430",
       "imageUrl": "img/cars/honda-civic-2018-nzxe85.webp",
+      "featured": false,
+      "sold": false
+    },
+    {
+      "id": "audi-a4-2005-4z484g",
+      "brand": "Audi",
+      "model": "A4 3.2 FSi 255 4p Mult",
+      "year": 2005,
+      "price": 5999,
+      "km": 2400000,
+      "fuel": "Gasolina",
+      "transmission": "Automatico",
+      "features": [
+        "Etiqueta B",
+        "Potencia: 255 HP",
+        "Color: Gray",
+        "Puertas: 4 doors",
+        "Kilometraje certificado",
+        "Revisado y listo para transferir"
+      ],
+      "adUrl": "https://es.wallapop.com/item/audi-a4-2005-1267130662",
+      "imageUrl": "img/cars/audi-a4-2005-4z484g.webp",
       "featured": false,
       "sold": false
     }
